@@ -2,7 +2,7 @@ loadi(63,13);   //library
 loadi(64,14);
 loadi(65,7);   //init
 loadi(66,8);
-loadi(22,35);  //int10
+loadi(22,35);  
 loadi(23,36);
 loadi(2,15);   //exhandler
 loadi(3,16);
